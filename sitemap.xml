@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sneznaev.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/statistics/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/statistics/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/statistics/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/statistics/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/ru/statistics/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/statistics/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/statistics/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/statistics/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/about/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/about/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/ru/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/about/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/about/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/contact/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/ru/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/contact/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/contact/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/privacy/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/ru/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/privacy/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/terms/"/>
+  </url>
+  <url>
+    <loc>https://sneznaev.github.io/ru/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sneznaev.github.io/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sneznaev.github.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sneznaev.github.io/terms/"/>
+  </url>
+</urlset>
